@@ -31,7 +31,7 @@ More info about dataset can be found here:
 2. Data Dictionary - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
 
 ## Data Model
-<img src="data_model.jpeg">
+<img src="https://github.com/hizkiarenvil/Uber-End-to-End-with-GCP/blob/main/Uber%20End-to-End%20Project%20with%20GCP/uber_data_model.jpeg?raw=true">
 
 ## Complete Video Tutorial 
 Video Link - https://youtu.be/WpQECq5Hx9g
